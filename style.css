@@ -29,11 +29,10 @@ body{
 .Card
 {
     box-sizing: border-box;
-    width: 330px;
+    width: 335px;
     height: auto;
     margin: 0;
     padding: 25px;
-    padding-bottom: 20px;
     border-radius: 15px;
 
     background-color: hsl(216, 50%, 16%);
@@ -42,7 +41,7 @@ body{
 
     /* FONT */
     font-family: Outfit;
-    font-size: 16px;
+    font-size: 18px;
 
     .View{
         position: relative;

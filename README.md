@@ -50,8 +50,8 @@ They also have all the active states required in the challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-UD1JtxIJj8)
+- Live Site URL: [NFT-Preview-Card-Component](https://ness505.github.io/NFT-Preview-Card-Component/)
 
 ## My process
 
